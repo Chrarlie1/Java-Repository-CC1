@@ -6,7 +6,7 @@
 
 /**
  *
- * @author m307user
+ * @author Lipago,Charlie
  */
 public class CalculateAreaOfRectangle {
     public static void main(String[]args){
